@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **soft{Bazar}**
 
-- 👨‍💻 All of my projects are available at [groupbaazar.in](groupbaazar.in)
+- 👨‍💻 All of my projects are available at [baazargroup.in](groupbaazar.in)
 
 - 💬 Ask me about **python ,django , javascript, sql Msql.**
 
