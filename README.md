@@ -32,7 +32,7 @@
 <a href="https://twitter.com/neelu yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neelu yadav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/neelam-yadav-882076207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/neelam-yadav-882076207" height="30" width="40" /></a>
 <a href="https://instagram.com/neelamyadav8116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neelamyadav8116" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/yneelam037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/yneelam037" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/yneelam037" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/https://www.hackerearth.com/yneelam037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/yneelam037" height="30" width="40" /></a>
 </p>
 
@@ -43,4 +43,3 @@
 
 
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknayak-programer&" alt="abhisheknayak-programer" /></p>
